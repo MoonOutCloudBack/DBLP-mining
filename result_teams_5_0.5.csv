@@ -1,0 +1,256 @@
+year,authors,papers,active
+2018,"('bo xu', 'shiyu zhou', 'shuang xu')",5,23.12790360046458
+2018,"('bo xu', 'linhao dong', 'shuang xu')",5,23.12790360046458
+2018,"('siu cheung hui', 'yi tay', 'luu anh tuan')",7,31.996124031007756
+2018,"('tianyi zhou', 'jing jiang', 'guodong long')",6,26.830597175424764
+2018,"('tianyi zhou', 'jing jiang', 'tao shen')",6,26.939490097384834
+2018,"('tianyi zhou', 'guodong long', 'tao shen')",6,26.984224486946815
+2018,"('jing jiang', 'guodong long', 'tao shen')",6,26.684848187570513
+2018,"('tianyi zhou', 'jing jiang', 'guodong long', 'tao shen')",6,22.146386649108972
+2018,"('tianyi zhou', 'chengqi zhang', 'tao shen')",6,27.15232793522268
+2018,"('jing jiang', 'chengqi zhang', 'tao shen')",6,26.852951635846374
+2018,"('chengqi zhang', 'guodong long', 'tao shen')",6,26.897686025408355
+2018,"('tianyi zhou', 'chengqi zhang', 'guodong long')",6,27.043435013262606
+2018,"('jing jiang', 'chengqi zhang', 'guodong long')",6,26.744058713886304
+2018,"('tianyi zhou', 'chengqi zhang', 'guodong long', 'tao shen')",6,22.35922448694681
+2018,"('jing jiang', 'chengqi zhang', 'guodong long', 'tao shen')",6,22.059848187570513
+2019,"('hao tang', 'dan xu', 'nicu sebe')",5,22.29236326109391
+2019,"('lidia s. chao', 'zhaopeng tu', 'baosong yang')",6,26.90504201680673
+2019,"('lidia s. chao', 'baosong yang', 'derek f. wong')",7,31.650000000000006
+2019,"('lidia s. chao', 'zhaopeng tu', 'derek f. wong')",6,27.005042016806726
+2019,"('zhaopeng tu', 'baosong yang', 'derek f. wong')",6,26.8764705882353
+2019,"('lidia s. chao', 'zhaopeng tu', 'baosong yang', 'derek f. wong')",6,22.305042016806723
+2019,"('zhaopeng tu', 'baosong yang', 'longyue wang')",6,26.82941176470589
+2019,"('wenjun wang', 'fangzhao wu', 'hongtao liu')",5,22.565476190476193
+2019,"('wenjun wang', 'xianchen wang', 'hongtao liu')",5,23.357142857142858
+2019,"('chuhan wu', 'fangzhao wu', 'xing xie')",7,31.347222222222225
+2019,"('chuhan wu', 'yongfeng huang', 'fangzhao wu')",6,26.785714285714292
+2019,"('chuhan wu', 'yongfeng huang', 'xing xie')",5,22.39087301587302
+2019,"('yongfeng huang', 'fangzhao wu', 'xing xie')",5,22.361111111111114
+2019,"('chuhan wu', 'yongfeng huang', 'fangzhao wu', 'xing xie')",5,18.43253968253968
+2019,"('zhaopeng tu', 'jie hao', 'xing wang')",6,27.433613445378157
+2019,"('jie hao', 'xing wang', 'jinfeng zhang')",6,28.00714285714286
+2019,"('zhaopeng tu', 'jie hao', 'jinfeng zhang')",6,27.78361344537816
+2019,"('zhaopeng tu', 'xing wang', 'jinfeng zhang')",6,27.326470588235296
+2019,"('zhaopeng tu', 'jie hao', 'xing wang', 'jinfeng zhang')",6,23.18361344537815
+2019,"('xipeng qiu', 'zheng zhang', 'qipeng guo')",5,22.767857142857146
+2019,"('gui-bin bian', 'xiao-hu zhou', 'zhen-liang ni')",5,22.940476190476193
+2019,"('gui-bin bian', 'xiao-hu zhou', 'zeng-guang hou')",5,22.752976190476197
+2019,"('christian laurano', 'sergio toscani', 'michele zanoni')",6,27.236538461538466
+2019,"('christian laurano', 'roberto ottoboni', 'michele zanoni')",5,22.839160839160844
+2019,"('roberto ottoboni', 'sergio toscani', 'michele zanoni')",5,22.818327505827508
+2019,"('christian laurano', 'roberto ottoboni', 'sergio toscani')",5,22.767045454545457
+2019,"('christian laurano', 'roberto ottoboni', 'sergio toscani', 'michele zanoni')",5,18.984994172494172
+2019,"('marco faifer', 'roberto ottoboni', 'michele zanoni')",5,22.96037296037296
+2019,"('marco faifer', 'christian laurano', 'roberto ottoboni')",5,22.90909090909091
+2019,"('marco faifer', 'roberto ottoboni', 'sergio toscani')",5,22.888257575757578
+2019,"('marco faifer', 'christian laurano', 'michele zanoni')",5,22.839160839160844
+2019,"('marco faifer', 'sergio toscani', 'michele zanoni')",5,22.818327505827508
+2019,"('marco faifer', 'christian laurano', 'sergio toscani')",5,22.767045454545457
+2019,"('marco faifer', 'christian laurano', 'roberto ottoboni', 'michele zanoni')",5,19.12703962703963
+2019,"('marco faifer', 'roberto ottoboni', 'sergio toscani', 'michele zanoni')",5,19.106206293706293
+2019,"('marco faifer', 'christian laurano', 'roberto ottoboni', 'sergio toscani')",5,19.054924242424242
+2019,"('marco faifer', 'christian laurano', 'sergio toscani', 'michele zanoni')",5,18.984994172494172
+2019,"('marco faifer', 'christian laurano', 'roberto ottoboni', 'sergio toscani', 'michele zanoni')",5,16.93953962703963
+2019,"('hong chang', 'bingpeng ma', 'xilin chen')",5,23.750000000000004
+2019,"('bj', 'rn w. schuller', 'nicholas cummins')",5,22.374768089053806
+2019,"('albert zeyer', 'ralf schl', 'hermann ney')",7,31.463601532567054
+2019,"('albert zeyer', 'ralf schl', 'ter')",7,31.57222222222223
+2019,"('kazuki irie', 'albert zeyer', 'hermann ney')",5,22.508723316912974
+2019,"('kazuki irie', 'albert zeyer', 'ralf schl')",5,22.614087301587304
+2019,"('kazuki irie', 'albert zeyer', 'ter')",5,22.58630952380953
+2019,"('kazuki irie', 'ralf schl', 'hermann ney')",5,22.429358237547895
+2019,"('kazuki irie', 'ralf schl', 'ter')",5,22.506944444444446
+2019,"('kazuki irie', 'albert zeyer', 'ralf schl', 'hermann ney')",5,18.61983442802408
+2019,"('kazuki irie', 'albert zeyer', 'ralf schl', 'ter')",5,18.697420634920633
+2019,"('zhizhong han', 'matthias zwicker', 'yu-shen liu')",7,31.856862745098045
+2019,"('zhaopeng tu', 'shuming shi', 'xing wang')",6,27.121925133689846
+2020,"('zhixin li', 'canlong zhang', 'huifang ma')",7,31.431700910029086
+2020,"('dario zanca', 'stefano melacci', 'marco gori')",5,23.650793650793656
+2020,"('hongfei xu', 'qiuhui liu', 'deyi xiong')",5,22.83860342555995
+2020,"('hongfei xu', 'qiuhui liu', 'josef van genabith')",5,23.037878787878793
+2020,"('hongfei xu', 'deyi xiong', 'josef van genabith')",5,22.755270092226617
+2020,"('qiuhui liu', 'deyi xiong', 'josef van genabith')",5,22.80072463768116
+2020,"('hongfei xu', 'qiuhui liu', 'deyi xiong', 'josef van genabith')",5,19.088603425559945
+2020,"('rton szemenyei', 'yugen yi', 'm')",5,23.14880952380953
+2020,"('rton szemenyei', 'yugen yi', 'changlu guo')",5,23.839285714285715
+2020,"('yugen yi', 'changlu guo', 'm')",5,23.357142857142858
+2020,"('rton szemenyei', 'changlu guo', 'm')",5,23.267857142857146
+2020,"('rton szemenyei', 'yugen yi', 'changlu guo', 'm')",5,19.81547619047619
+2020,"('roberto tinarelli', 'alessandro mingotti', 'lorenzo peretto')",7,31.766666666666673
+2020,"('jiaojiao li', 'rui song', 'yunsong li')",5,22.733100233100238
+2020,"('jing jiang', 'guodong long', 'tao shen')",5,22.237373489642096
+2020,"('keisuke maeda', 'takahiro ogawa', 'miki haseyama')",6,27.228571428571435
+2020,"('takahiro ogawa', 'miki haseyama', 'yuya moroto')",5,22.833333333333336
+2020,"('keisuke maeda', 'takahiro ogawa', 'yuya moroto')",5,22.85714285714286
+2020,"('keisuke maeda', 'miki haseyama', 'yuya moroto')",5,22.85714285714286
+2020,"('keisuke maeda', 'takahiro ogawa', 'miki haseyama', 'yuya moroto')",5,19.023809523809522
+2020,"('necati cihan camg', 'z', 'richard bowden')",6,27.376623376623378
+2020,"('ankit singh rawat', 'sashank j. reddi', 'srinadh bhojanapalli')",5,23.39056776556777
+2020,"('ankit singh rawat', 'sashank j. reddi', 'sanjiv kumar')",5,23.46049783549784
+2020,"('chulhee yun', 'ankit singh rawat', 'sashank j. reddi')",5,23.839285714285715
+2020,"('chulhee yun', 'ankit singh rawat', 'srinadh bhojanapalli')",5,23.598901098901102
+2020,"('chulhee yun', 'ankit singh rawat', 'sanjiv kumar')",5,23.66883116883117
+2020,"('chulhee yun', 'sashank j. reddi', 'srinadh bhojanapalli')",5,23.509615384615387
+2020,"('chulhee yun', 'sashank j. reddi', 'sanjiv kumar')",5,23.57954545454546
+2020,"('chulhee yun', 'ankit singh rawat', 'sashank j. reddi', 'srinadh bhojanapalli')",5,20.057234432234434
+2020,"('chulhee yun', 'ankit singh rawat', 'sashank j. reddi', 'sanjiv kumar')",5,20.1271645021645
+2020,"('gui-bin bian', 'xiao-liang xie', 'zeng-guang hou')",7,32.048611111111114
+2020,"('junjun jiang', 'deming zhai', 'xianming liu')",5,23.52380952380953
+2020,"('thomas hain', 'yanpei shi', 'qiang huang')",6,27.375000000000007
+2020,"('jianhua tao', 'jiangyan yi', 'zhengqi wen')",7,31.482954545454547
+2020,"('michael l. seltzer', 'yongqiang wang', 'frank zhang')",5,22.85714285714286
+2020,"('sridha sridharan', 'clinton fookes', 'simon denman')",7,31.525283797729625
+2020,"('dong yu', 'chao weng', 'heng lu')",5,22.660784313725493
+2020,"('chao weng', 'heng lu', 'chengzhu yu')",5,22.960784313725494
+2020,"('dong yu', 'chao weng', 'chengzhu yu')",5,22.660784313725493
+2020,"('dong yu', 'heng lu', 'chengzhu yu')",5,22.86666666666667
+2020,"('dong yu', 'chao weng', 'heng lu', 'chengzhu yu')",5,18.99411764705882
+2020,"('chunyang wu', 'yongqiang wang', 'frank zhang')",7,31.708333333333336
+2020,"('chunyang wu', 'ching-feng yeh', 'frank zhang')",7,32.05303030303031
+2020,"('chunyang wu', 'ching-feng yeh', 'yongqiang wang')",7,31.844696969696972
+2020,"('ching-feng yeh', 'yongqiang wang', 'frank zhang')",7,31.76136363636364
+2020,"('chunyang wu', 'ching-feng yeh', 'yongqiang wang', 'frank zhang')",7,26.511363636363637
+2020,"('chunyang wu', 'ching-feng yeh', 'yangyang shi')",7,32.13636363636364
+2020,"('ching-feng yeh', 'yangyang shi', 'frank zhang')",7,32.05303030303031
+2020,"('ching-feng yeh', 'yongqiang wang', 'yangyang shi')",7,31.844696969696972
+2020,"('chunyang wu', 'yangyang shi', 'frank zhang')",7,32.00000000000001
+2020,"('chunyang wu', 'yongqiang wang', 'yangyang shi')",7,31.791666666666668
+2020,"('yongqiang wang', 'yangyang shi', 'frank zhang')",7,31.708333333333336
+2020,"('chunyang wu', 'ching-feng yeh', 'yangyang shi', 'frank zhang')",7,26.803030303030305
+2020,"('chunyang wu', 'ching-feng yeh', 'yongqiang wang', 'yangyang shi')",7,26.59469696969697
+2020,"('ching-feng yeh', 'yongqiang wang', 'yangyang shi', 'frank zhang')",7,26.511363636363637
+2020,"('chunyang wu', 'yongqiang wang', 'yangyang shi', 'frank zhang')",7,26.458333333333332
+2020,"('gui-bin bian', 'xiao-hu zhou', 'xiao-liang xie')",6,27.5952380952381
+2020,"('gui-bin bian', 'xiao-hu zhou', 'zeng-guang hou')",6,27.303571428571434
+2020,"('xiao-hu zhou', 'xiao-liang xie', 'zeng-guang hou')",6,27.54166666666667
+2020,"('gui-bin bian', 'xiao-hu zhou', 'xiao-liang xie', 'zeng-guang hou')",6,22.970238095238095
+2021,"('ning cheng', 'jing xiao', 'jianzong wang')",6,27.24903846153847
+2021,"('tsubasa hirakawa', 'takayoshi yamashita', 'hironobu fujiyoshi')",5,22.73809523809524
+2021,"('fan wang', 'hao li', 'pichao wang')",8,35.92874493927126
+2021,"('han hu', 'zheng zhang', 'yue cao')",8,36.50793650793651
+2021,"('han hu', 'ze liu', 'yue cao')",7,32.69444444444444
+2021,"('han hu', 'zheng zhang', 'ze liu')",7,32.16666666666667
+2021,"('zheng zhang', 'ze liu', 'yue cao')",7,32.361111111111114
+2021,"('han hu', 'zheng zhang', 'ze liu', 'yue cao')",7,27.11111111111111
+2021,"('han hu', 'yutong lin', 'yue cao')",5,23.638888888888893
+2021,"('han hu', 'zheng zhang', 'yutong lin')",5,23.261904761904763
+2021,"('zheng zhang', 'yutong lin', 'yue cao')",5,23.400793650793652
+2021,"('han hu', 'zheng zhang', 'yutong lin', 'yue cao')",5,19.65079365079365
+2021,"('houwen peng', 'jianlong fu', 'minghao chen')",5,23.000000000000004
+2021,"('weijian xu', 'yifan xu', 'zhuowen tu')",9,41.41818181818182
+2021,"('hongsheng li', 'xiaogang wang', 'jifeng dai')",7,31.428116928116932
+2021,"('herv', ' j', 'gou')",12,54.21666666666667
+2021,"(' j', 'gou', 'hugo touvron')",9,40.8548076923077
+2021,"('herv', 'gou', 'hugo touvron')",9,40.7923076923077
+2021,"('herv', ' j', 'hugo touvron')",9,40.7548076923077
+2021,"('herv', ' j', 'gou', 'hugo touvron')",9,33.854807692307695
+2021,"('armand joulin', 'gou', 'hugo touvron')",6,27.290109890109896
+2021,"('armand joulin', ' j', 'hugo touvron')",6,27.265109890109898
+2021,"('armand joulin', 'herv', 'hugo touvron')",6,27.223443223443226
+2021,"('armand joulin', ' j', 'gou')",6,27.203571428571436
+2021,"('armand joulin', 'herv', 'gou')",6,27.161904761904765
+2021,"('armand joulin', 'herv', ' j')",6,27.136904761904763
+2021,"('armand joulin', ' j', 'gou', 'hugo touvron')",6,22.66510989010989
+2021,"('armand joulin', 'herv', 'gou', 'hugo touvron')",6,22.623443223443225
+2021,"('armand joulin', 'herv', ' j', 'hugo touvron')",6,22.598443223443226
+2021,"('armand joulin', 'herv', ' j', 'gou')",6,22.536904761904765
+2021,"('armand joulin', 'herv', ' j', 'gou', 'hugo touvron')",6,19.998443223443225
+2021,"('lei zhang', 'xiyang dai', 'lu yuan')",7,31.363742107012303
+2021,"('xiyang dai', 'bin xiao', 'lu yuan')",8,36.32406808877398
+2021,"('lei zhang', 'xiyang dai', 'bin xiao')",6,26.991804805364133
+2021,"('lei zhang', 'bin xiao', 'lu yuan')",6,26.916174553263293
+2021,"('lei zhang', 'xiyang dai', 'bin xiao', 'lu yuan')",6,22.344745981834716
+2021,"('pengchuan zhang', 'jianwei yang', 'lu yuan')",5,23.419117647058826
+2021,"('pengchuan zhang', 'xiyang dai', 'jianwei yang')",5,23.48214285714286
+2021,"('pengchuan zhang', 'xiyang dai', 'jianwei yang', 'lu yuan')",5,19.609593837535012
+2021,"('ping luo', 'wenhai wang', 'enze xie')",6,27.56666666666667
+2021,"('ding liang', 'wenhai wang', 'enze xie')",5,23.72222222222223
+2021,"('ding liang', 'ping luo', 'enze xie')",5,23.47222222222222
+2021,"('ding liang', 'ping luo', 'wenhai wang')",5,23.416666666666668
+2021,"('ding liang', 'ping luo', 'wenhai wang', 'enze xie')",5,19.805555555555557
+2021,"('zizheng pan', 'jing liu', 'jianfei cai')",5,23.026915113871638
+2021,"('zizheng pan', 'bohan zhuang', 'jianfei cai')",5,23.598343685300208
+2021,"('zizheng pan', 'bohan zhuang', 'jing liu')",5,23.52380952380953
+2021,"('bohan zhuang', 'jing liu', 'jianfei cai')",5,22.74120082815735
+2021,"('zizheng pan', 'bohan zhuang', 'jing liu', 'jianfei cai')",5,19.574534161490682
+2021,"('zizheng pan', 'bohan zhuang', 'haoyu he')",5,24.380952380952383
+2021,"('bohan zhuang', 'jing liu', 'haoyu he')",5,23.52380952380953
+2021,"('zizheng pan', 'haoyu he', 'jianfei cai')",5,23.884057971014492
+2021,"('zizheng pan', 'jing liu', 'haoyu he')",5,23.809523809523814
+2021,"('zizheng pan', 'bohan zhuang', 'jing liu', 'haoyu he')",5,20.357142857142854
+2021,"('zizheng pan', 'bohan zhuang', 'jing liu', 'haoyu he', 'jianfei cai')",5,18.074534161490682
+2021,"('jiwen lu', 'jie zhou', 'yongming rao')",6,27.333333333333336
+2021,"('xiyang dai', 'lu yuan', 'mengchen liu')",6,27.531512605042018
+2021,"('nicola messina', 'fabrizio falchi', 'claudio gennaro')",6,28.19047619047619
+2021,"('giuseppe amato', 'fabrizio falchi', 'claudio gennaro')",5,23.56150793650794
+2021,"('nicola messina', 'giuseppe amato', 'fabrizio falchi')",5,23.402777777777782
+2021,"('nicola messina', 'giuseppe amato', 'claudio gennaro')",5,23.56150793650794
+2021,"('nicola messina', 'giuseppe amato', 'fabrizio falchi', 'claudio gennaro')",5,19.950396825396826
+2021,"('dara bahri', 'mostafa dehghani', 'donald metzler')",5,22.460784313725494
+2021,"('dara bahri', 'mostafa dehghani', 'yi tay')",5,22.327063383492934
+2021,"('dara bahri', 'zhen qin', 'donald metzler')",5,22.766339869281047
+2021,"('dara bahri', 'zhen qin', 'yi tay')",5,22.63261893904849
+2021,"('jai prakash gupta', 'dara bahri', 'zhen qin')",5,23.14133986928105
+2021,"('jai prakash gupta', 'zhen qin', 'donald metzler')",5,23.09722222222223
+2021,"('jai prakash gupta', 'zhen qin', 'yi tay')",5,22.963501291989665
+2021,"('jai prakash gupta', 'dara bahri', 'donald metzler')",5,22.83578431372549
+2021,"('jai prakash gupta', 'dara bahri', 'yi tay')",5,22.702063383492934
+2021,"('jai prakash gupta', 'dara bahri', 'zhen qin', 'donald metzler')",5,19.22467320261438
+2021,"('jai prakash gupta', 'dara bahri', 'zhen qin', 'yi tay')",5,19.09095227238182
+2021,"('ram', 'n fernandez astudillo', 'tahira naseem')",6,27.962121212121218
+2021,"('chuhan wu', 'fangzhao wu', 'yongfeng huang')",5,22.321428571428577
+2021,"('nik bessis', 'zachary wharton', 'ardhendu behera')",5,23.638888888888893
+2021,"('ois br', 'mond', 'fran')",6,27.491228070175442
+2021,"('jiaming zhang', 'kailun yang', 'rainer stiefelhagen')",7,31.688888888888894
+2021,"('yuhong song', 'panjie qi', 'edwin hsing-mean sha')",5,24.666666666666668
+2021,"('yuhong song', 'panjie qi', 'qingfeng zhuge')",5,24.666666666666668
+2021,"('yuhong song', 'edwin hsing-mean sha', 'qingfeng zhuge')",5,24.666666666666668
+2021,"('panjie qi', 'edwin hsing-mean sha', 'qingfeng zhuge')",5,24.666666666666668
+2021,"('yuhong song', 'panjie qi', 'edwin hsing-mean sha', 'qingfeng zhuge')",5,21.5
+2021,"('feng-ju chang', 'martin radfar', 'athanasios mouchtaris')",6,28.29545454545455
+2021,"('timo lohrenz', 'zhengyang li', 'tim fingscheidt')",5,24.666666666666668
+2021,"('tsubasa ochiai', 'marc delcroix', 'shoko araki')",5,23.22916666666667
+2021,"('tsubasa ochiai', 'keisuke kinoshita', 'shoko araki')",5,23.54166666666667
+2021,"('marc delcroix', 'keisuke kinoshita', 'shoko araki')",5,23.22916666666667
+2021,"('tsubasa ochiai', 'marc delcroix', 'keisuke kinoshita')",5,23.22916666666667
+2021,"('tomohiro nakatani', 'keisuke kinoshita', 'shoko araki')",5,23.47222222222222
+2021,"('tsubasa ochiai', 'tomohiro nakatani', 'keisuke kinoshita')",5,23.47222222222222
+2021,"('marc delcroix', 'tomohiro nakatani', 'keisuke kinoshita')",5,23.15972222222222
+2021,"('tsubasa ochiai', 'tomohiro nakatani', 'shoko araki')",5,23.47222222222222
+2021,"('marc delcroix', 'tomohiro nakatani', 'shoko araki')",5,23.15972222222222
+2021,"('tsubasa ochiai', 'marc delcroix', 'tomohiro nakatani')",5,23.15972222222222
+2021,"('tsubasa ochiai', 'tomohiro nakatani', 'keisuke kinoshita', 'shoko araki')",5,19.930555555555557
+2021,"('marc delcroix', 'tomohiro nakatani', 'keisuke kinoshita', 'shoko araki')",5,19.618055555555557
+2021,"('chiori hori', 'takaaki hori', 'jonathan le roux')",5,22.378787878787882
+2021,"('ndez llorca', 'miguel ', 'ngel sotelo')",5,23.93650793650794
+2021,"('david fern', 'ndez llorca', 'ngel sotelo')",5,24.380952380952383
+2021,"('david fern', 'ndez llorca', 'miguel ')",5,24.222222222222225
+2021,"('david fern', 'miguel ', 'ngel sotelo')",5,23.93650793650794
+2021,"('david fern', 'ndez llorca', 'miguel ', 'ngel sotelo')",5,20.769841269841265
+2021,"('jun wang', 'shuai wang', 'yaqi wang')",5,22.704166666666666
+2021,"('zachary wharton', 'asish bera', 'ardhendu behera')",5,23.638888888888893
+2021,"('daquan zhou', 'jiashi feng', 'qibin hou')",5,23.217391304347828
+2021,"('necati cihan camg', 'richard bowden', 'z')",5,22.813852813852815
+2021,"('rgen schmidhuber', 'j', 'kazuki irie')",6,27.117857142857144
+2021,"('nikolaos pappas', 'noah a. smith', 'hao peng')",5,22.477777777777778
+2021,"('dani yogatama', 'nikolaos pappas', 'noah a. smith')",5,23.111111111111114
+2021,"('dani yogatama', 'nikolaos pappas', 'hao peng')",5,23.03333333333334
+2021,"('dani yogatama', 'noah a. smith', 'hao peng')",5,22.97777777777778
+2021,"('dani yogatama', 'nikolaos pappas', 'noah a. smith', 'hao peng')",5,19.144444444444446
+2021,"('yao wan', 'philip s. yu', 'ye liu')",5,22.989648033126294
+2021,"('shuai wang', 'qun jin', 'yaqi wang')",5,23.437500000000004
+2021,"('jun wang', 'qun jin', 'yaqi wang')",5,23.225
+2021,"('jun wang', 'shuai wang', 'qun jin')",5,22.9125
+2021,"('jun wang', 'shuai wang', 'qun jin', 'yaqi wang')",5,19.370833333333334
+2021,"('zheng-ning liu', 'tai-jiang mu', 'shi-min hu')",5,23.92857142857143
+2021,"('zheng-ning liu', 'tai-jiang mu', 'meng-hao guo')",5,23.769841269841272
+2021,"('fan wang', 'rong jin', 'pichao wang')",5,22.888157894736846
+2021,"('fan wang', 'hao li', 'rong jin')",5,22.817307692307693
+2021,"('hao li', 'rong jin', 'pichao wang')",5,22.7471322537112
+2021,"('fan wang', 'hao li', 'rong jin', 'pichao wang')",5,18.913798920377868
+2022,"('jiaming zhang', 'kailun yang', 'rainer stiefelhagen')",6,27.161904761904765
+2022,"('jiaming zhang', 'kunyu peng', 'rainer stiefelhagen')",5,22.912698412698415
+2022,"('jiaming zhang', 'kailun yang', 'kunyu peng')",5,22.85714285714286
+2022,"('kailun yang', 'kunyu peng', 'rainer stiefelhagen')",5,22.833333333333336
+2022,"('jiaming zhang', 'kailun yang', 'kunyu peng', 'rainer stiefelhagen')",5,19.023809523809522

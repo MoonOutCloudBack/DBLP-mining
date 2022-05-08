@@ -2,7 +2,7 @@
 
 ## 基本思路
 
-- 解析 DBLP 的 xml 文件，以 attention 和 transformer 为关键词（python 的 str in 来筛选），只取 2017 年以后的文章。
+- 解析 DBLP 的 xml 文件，以 attention 和 transformer 为关键词，只取 2017 年以后的文章。
 - 把人名编码成数字。
 - 一年一年来处理，认为有效的学者关系满足两点：
   - 一年内发表论文数量大于 5【支持率】。
